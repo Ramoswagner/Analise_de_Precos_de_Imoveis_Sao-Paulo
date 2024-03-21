@@ -4,7 +4,8 @@ Este repositório contém um projeto de análise de preços de imóveis na cidad
 
 ## Conjunto de Dados
 
-O conjunto de dados utilizado neste projeto foi obtido do Kaggle e pode ser encontrado [aqui](https://www.kaggle.com/datasets/kaggleshashankk/house-price-data-of-sao-paulo). Ele inclui as seguintes colunas:
+O conjunto de dados utilizado neste projeto foi o [House price data of Sao Paulo](https://www.kaggle.com/datasets/kaggleshashankk/house-price-data-of-sao-paulo) obtido do Kaggle. 
+Ele inclui as seguintes colunas:
 
 - **Rua (Street)**: Localização da rua onde o imóvel está situado.
 - **Cidade (City)**: Cidade onde o imóvel está localizado (todos os dados neste conjunto são de São Paulo).
