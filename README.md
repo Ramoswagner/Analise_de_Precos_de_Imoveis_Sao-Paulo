@@ -26,8 +26,7 @@ Neste projeto, foram explorados os seguintes modelos de regressão:
 
 ## Resultados
 
-Os resultados da análise, incluindo as métricas de desempenho de cada modelo (MSE e R²) foram:
-![Resultados](resultados.png)
+Os resultados da análise, incluindo as métricas de desempenho de cada modelo (MSE e R²) foram: ![Resultados](resultados.png)
 
 ## Contribuição
 
